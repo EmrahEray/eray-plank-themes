@@ -10,7 +10,7 @@
 
 ###Installation
 <pre>
-git clone hhttps://github.com/EmrahEray/eray-plank-themes.git
+git clone https://github.com/EmrahEray/eray-plank-themes.git
 cd plank-themes
 ./install.sh
 </pre>
@@ -20,6 +20,8 @@ cd plank-themes
 <pre>
 Folders here to copy /usr/share/plank/themes
 </pre>
+
+For those wondering icon theme: <a href="https://github.com/captiva-project/captiva-icon-theme">Captiva</a>
 
 Thanks!
 
