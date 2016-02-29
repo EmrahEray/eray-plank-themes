@@ -12,6 +12,7 @@
 <pre>
 git clone https://github.com/EmrahEray/eray-plank-themes.git
 cd eray-plank-themes
+chmod +x install.sh
 ./install.sh
 </pre>
 
