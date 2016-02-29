@@ -1,11 +1,25 @@
-# eray-plank-themes
 
-<p>Folders here to copy /usr/share/plank/themes</p>
-<h2>Eray Beyaz</h2>
-<img src="http://i.hizliresim.com/ljyj5p.png" />
 
-<h2>Eray Siyah</h2>
-<img src="http://i.hizliresim.com/g8A8MQ.png" />
+###Eray-Beyaz 
+
+![Texte alternatif](ttp://i.hizliresim.com/ljyj5p.png "Eray-Beyaz")
+
+###Eray-Siyah 
+
+![Texte alternatif](http://i.hizliresim.com/g8A8MQ.png "Eray-Siyah")
+
+###Installation
+<pre>
+git clone hhttps://github.com/EmrahEray/eray-plank-themes.git
+cd plank-themes
+./install.sh
+</pre>
+
+###Or
+
+<pre>
+Folders here to copy /usr/share/plank/themes
+</pre>
 
 Thanks!
 
