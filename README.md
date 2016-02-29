@@ -11,7 +11,7 @@
 ###Installation
 <pre>
 git clone https://github.com/EmrahEray/eray-plank-themes.git
-cd plank-themes
+cd eray-plank-themes
 ./install.sh
 </pre>
 
