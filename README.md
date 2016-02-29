@@ -2,7 +2,7 @@
 
 ###Eray-Beyaz 
 
-![Texte alternatif](ttp://i.hizliresim.com/ljyj5p.png "Eray-Beyaz")
+![Texte alternatif](http://i.hizliresim.com/ljyj5p.png "Eray-Beyaz")
 
 ###Eray-Siyah 
 
