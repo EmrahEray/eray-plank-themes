@@ -8,6 +8,8 @@
 
 ![Texte alternatif](http://i.hizliresim.com/g8A8MQ.png "Eray-Siyah")
 
+###Eray-Siyah-Cizgi
+![Texte alternatif](http://i.hizliresim.com/8Zb1jk.png "Eray-Siyah-Cizgi")
 ###Installation
 <pre>
 git clone https://github.com/EmrahEray/eray-plank-themes.git
