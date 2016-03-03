@@ -1,34 +1,29 @@
 #!/bin/bash
-
-read -p "Do you want to install Eray-Beyaz [Y/n]?" yn
-
-if [[ $yn =~ ^[Yy]$ ]] || [[ $yn == "" ]]; then
-
-    echo "Copying plank theme..."
-    cp -Ri Eray-Beyaz /usr/share/plank/themes
-
-    echo
-    echo "Done"
-fi
-
-read -p "Do you want to install Eray-Siyah [Y/n]?" yn
-
-if [[ $yn =~ ^[Yy]$ ]] || [[ $yn == "" ]]; then
-
-    echo "Copying plank theme..."
-    cp -Ri Eray-Siyah /usr/share/plank/themes
-
-    echo
-    echo "Done"
-fi
+ if [[ $yn =~ ^[Yy]$ ]] || [[ $yn == "" ]]; then
+ 
+    printf "Copying plank theme...\n"
+     cp -Ri Eray-Beyaz $HOME/.local/share/plank/themes
+ 
+    printf "Done\n"
+ fi
+ 
+ read -p "Do you want to install Eray-Siyah [Y/n]?" yn
+ 
+ if [[ $yn =~ ^[Yy]$ ]] || [[ $yn == "" ]]; then
+ 
+    printf "Copying plank theme...\n"
+     cp -Ri Eray-Siyah $HOME/.local/share/plank/themes
+ 
+    printf "Done\n"
+ fi
+ 
 
 read -p "Do you want to install Eray-Siyah-Cizgi [Y/n]?" yn
 
 if [[ $yn =~ ^[Yy]$ ]] || [[ $yn == "" ]]; then
 
-    echo "Copying plank theme..."
+    printf "Copying plank theme...\n"
     cp -Ri Eray-Siyah-Cizgi /usr/share/plank/themes
 
-    echo
-    echo "Done"
+    printf "Done\n"
 fi
